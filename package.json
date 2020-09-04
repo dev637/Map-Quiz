@@ -8,7 +8,7 @@
     "d3-geo-projection": "^2.8.1",
     "default-passive-events": "^1.0.10",
     "firebase": "^7.6.2",
-    "papaparse": "^5.1.1",
+    "papaparse": "^5.2.0",
     "react": "^16.12.0",
     "react-device-detect": "^1.11.14",
     "react-dom": "^16.12.0",
